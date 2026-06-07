@@ -202,11 +202,9 @@ python scripts/05_visualize.py
 
 ## 👤 Author
 
-**Vaibhav** | MSc Zoology (Entomology & Wildlife) | Fergusson College, Pune  
+**Vaibhav** | MSc Zoology | Fergusson College, Pune  
 Bioinformatics self-study project | Marathwada, Maharashtra, India
 
 ---
 
-## 📄 License
-
-MIT License — free to use, cite, and build upon.
+## 📄 Licens
