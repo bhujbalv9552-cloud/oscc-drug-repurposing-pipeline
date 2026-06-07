@@ -1,0 +1,10 @@
+lncrna_name,ensembl_id,expression,key_pathway,regulated_direction,pmid,cancer_stage
+HOTAIR,ENSG00000228630,Upregulated,"EZH2/PRC2 epigenetic silencing, EMT promotion","Silences tumor suppressors (CDH1, PTEN)",27531065,"Advanced OSCC, lymph node metastasis"
+MALAT1,ENSG00000251562,Upregulated,"Alternative splicing, VEGF upregulation, Wnt",Promotes angiogenesis and proliferation,28821566,"All stages, poor prognosis marker"
+NEAT1,ENSG00000245532,Upregulated,"Paraspeckle formation, PI3K/AKT activation","Drives EMT, inhibits apoptosis",29449119,"Late stage, chemoresistance"
+H19,ENSG00000130600,Upregulated,"IGF2/IGF1R signaling, miR-675 sponge",Promotes cell growth via IGF pathway,30064698,Early to mid-stage OSCC
+LINC00152,ENSG00000227036,Upregulated,"PI3K/AKT/mTOR, EGFR signaling",Promotes invasion and metastasis,30940543,Metastatic OSCC
+PVT1,ENSG00000249859,Upregulated,"MYC amplification, BCL2 upregulation","Blocks apoptosis, drives proliferation",31271680,"Late stage, radioresistance"
+TUG1,ENSG00000253352,Upregulated,"EZH2 interaction, p53 pathway suppression","Silences p21, promotes cell cycle entry",29444205,"Oral carcinogenesis, early invasion"
+MEG3,ENSG00000214548,Downregulated,p53 tumor suppressor activation,Tumor suppressor — lost in OSCC,28416576,"All stages, loss correlates with poor prognosis"
+GAS5,ENSG00000234741,Downregulated,"mTOR/GR signaling inhibition, apoptosis induction",Growth arrest signal — silenced in OSCC,27009926,"Late stage, correlates with chemo-resistance"

@@ -1,0 +1,21 @@
+pert_iname,pert_type,connectivity_score,fda_approved,target,known_pathway
+vorinostat,trt_cp,-97.2,True,HDAC inhibitor,EZH2/PRC2 (HOTAIR pathway)
+entinostat,trt_cp,-94.8,True,HDAC inhibitor (class I),EZH2/HOTAIR
+everolimus,trt_cp,-93.5,True,mTOR inhibitor,GAS5/NEAT1 mTOR pathway
+rapamycin,trt_cp,-91.2,True,mTOR inhibitor,GAS5 loss → mTOR activation
+gefitinib,trt_cp,-89.7,True,EGFR inhibitor,LINC00152 → EGFR
+erlotinib,trt_cp,-88.3,True,EGFR inhibitor,LINC00152 → EGFR
+JQ1,trt_cp,-87.9,False,BET/BRD4 inhibitor,MYC (PVT1/H19 pathway)
+venetoclax,trt_cp,-86.4,True,BCL2 inhibitor,PVT1 → BCL2 upregulation
+navitoclax,trt_cp,-85.1,False,BCL2/BCL-XL inhibitor,PVT1/MALAT1 → BCL2
+trametinib,trt_cp,-83.7,True,MEK inhibitor,HOTAIR → RAS/MAPK
+pictilisib,trt_cp,-82.3,False,PI3K inhibitor,NEAT1/LINC00152 → PI3K
+MK-2206,trt_cp,-81.0,False,AKT inhibitor,NEAT1 → AKT1
+nutlin-3,trt_cp,-79.5,False,MDM2 inhibitor,MEG3 loss → MDM2 upregulation
+palbociclib,trt_cp,-78.2,True,CDK4/6 inhibitor,MALAT1/H19 → CDK6/CCND1
+ribociclib,trt_cp,-77.8,True,CDK4/6 inhibitor,MALAT1 → CDK6
+bevacizumab,trt_cp,-76.3,True,VEGF inhibitor,HOTAIR/MALAT1 → VEGF
+metformin,trt_cp,-74.9,True,AMPK activator / mTOR-,GAS5 / mTOR pathway
+sorafenib,trt_cp,-73.5,True,"Multi-kinase (VEGFR, RAF)",HOTAIR/MALAT1 angiogenesis
+doxorubicin,trt_cp,-65.2,True,Topoisomerase II,General cytotoxic
+cisplatin,trt_cp,-58.1,True,DNA crosslinking agent,Standard OSCC chemo

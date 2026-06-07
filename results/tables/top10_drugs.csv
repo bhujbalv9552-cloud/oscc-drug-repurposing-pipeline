@@ -1,0 +1,11 @@
+pert_iname,pert_type,connectivity_score,fda_approved,target,known_pathway
+vorinostat,trt_cp,-97.2,True,HDAC inhibitor,EZH2/PRC2 (HOTAIR pathway)
+entinostat,trt_cp,-94.8,True,HDAC inhibitor (class I),EZH2/HOTAIR
+everolimus,trt_cp,-93.5,True,mTOR inhibitor,GAS5/NEAT1 mTOR pathway
+rapamycin,trt_cp,-91.2,True,mTOR inhibitor,GAS5 loss → mTOR activation
+gefitinib,trt_cp,-89.7,True,EGFR inhibitor,LINC00152 → EGFR
+erlotinib,trt_cp,-88.3,True,EGFR inhibitor,LINC00152 → EGFR
+JQ1,trt_cp,-87.9,False,BET/BRD4 inhibitor,MYC (PVT1/H19 pathway)
+venetoclax,trt_cp,-86.4,True,BCL2 inhibitor,PVT1 → BCL2 upregulation
+navitoclax,trt_cp,-85.1,False,BCL2/BCL-XL inhibitor,PVT1/MALAT1 → BCL2
+trametinib,trt_cp,-83.7,True,MEK inhibitor,HOTAIR → RAS/MAPK

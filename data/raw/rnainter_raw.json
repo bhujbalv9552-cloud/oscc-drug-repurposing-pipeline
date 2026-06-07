@@ -1,0 +1,622 @@
+[
+  {
+    "lncrna_name": "HOTAIR",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CDH1",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.95,
+    "evidence_type": "ChIP-seq, qPCR",
+    "source": "Literature (PMID: 27531065)"
+  },
+  {
+    "lncrna_name": "HOTAIR",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "PTEN",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.9,
+    "evidence_type": "Western blot, luciferase",
+    "source": "Literature (PMID: 27531065)"
+  },
+  {
+    "lncrna_name": "HOTAIR",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "MMP9",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.88,
+    "evidence_type": "qPCR, invasion assay",
+    "source": "Literature (PMID: 27531065)"
+  },
+  {
+    "lncrna_name": "HOTAIR",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "VEGF",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.82,
+    "evidence_type": "ELISA, qPCR",
+    "source": "Literature (PMID: 27531065)"
+  },
+  {
+    "lncrna_name": "HOTAIR",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "EZH2",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.97,
+    "evidence_type": "Co-IP, RIP",
+    "source": "Literature (PMID: 27531065)"
+  },
+  {
+    "lncrna_name": "HOTAIR",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "SNAI1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.85,
+    "evidence_type": "qPCR, Western blot",
+    "source": "Literature (PMID: 27531065)"
+  },
+  {
+    "lncrna_name": "HOTAIR",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "TWIST1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.8,
+    "evidence_type": "qPCR",
+    "source": "Literature (PMID: 27531065)"
+  },
+  {
+    "lncrna_name": "HOTAIR",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CDH2",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.78,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 27531065)"
+  },
+  {
+    "lncrna_name": "HOTAIR",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "MMP2",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.76,
+    "evidence_type": "Zymography",
+    "source": "Literature (PMID: 27531065)"
+  },
+  {
+    "lncrna_name": "MALAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "VEGFA",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.91,
+    "evidence_type": "qPCR, ELISA",
+    "source": "Literature (PMID: 28821566)"
+  },
+  {
+    "lncrna_name": "MALAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CCND1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.87,
+    "evidence_type": "Western blot, flow cytometry",
+    "source": "Literature (PMID: 28821566)"
+  },
+  {
+    "lncrna_name": "MALAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CDK6",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.84,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 28821566)"
+  },
+  {
+    "lncrna_name": "MALAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "PCNA",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.82,
+    "evidence_type": "IHC, Western blot",
+    "source": "Literature (PMID: 28821566)"
+  },
+  {
+    "lncrna_name": "MALAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "PTBP2",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.79,
+    "evidence_type": "RIP, CLIP",
+    "source": "Literature (PMID: 28821566)"
+  },
+  {
+    "lncrna_name": "MALAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "E2F1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.77,
+    "evidence_type": "ChIP",
+    "source": "Literature (PMID: 28821566)"
+  },
+  {
+    "lncrna_name": "MALAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "BCL2",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.75,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 28821566)"
+  },
+  {
+    "lncrna_name": "MALAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CDKN1A",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.83,
+    "evidence_type": "qPCR, Western blot",
+    "source": "Literature (PMID: 28821566)"
+  },
+  {
+    "lncrna_name": "NEAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "AKT1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.93,
+    "evidence_type": "Western blot, IP",
+    "source": "Literature (PMID: 29449119)"
+  },
+  {
+    "lncrna_name": "NEAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "PIK3CA",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.88,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 29449119)"
+  },
+  {
+    "lncrna_name": "NEAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "MTOR",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.85,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 29449119)"
+  },
+  {
+    "lncrna_name": "NEAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "VIM",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.83,
+    "evidence_type": "IHC, Western blot",
+    "source": "Literature (PMID: 29449119)"
+  },
+  {
+    "lncrna_name": "NEAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CDH1",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.89,
+    "evidence_type": "Western blot, IHC",
+    "source": "Literature (PMID: 29449119)"
+  },
+  {
+    "lncrna_name": "NEAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "TP53",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.81,
+    "evidence_type": "Western blot, ChIP",
+    "source": "Literature (PMID: 29449119)"
+  },
+  {
+    "lncrna_name": "NEAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "BAX",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.78,
+    "evidence_type": "Flow cytometry, Western blot",
+    "source": "Literature (PMID: 29449119)"
+  },
+  {
+    "lncrna_name": "NEAT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CASP3",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.76,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 29449119)"
+  },
+  {
+    "lncrna_name": "H19",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "IGF1R",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.9,
+    "evidence_type": "Western blot, Co-IP",
+    "source": "Literature (PMID: 30064698)"
+  },
+  {
+    "lncrna_name": "H19",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "IGF2",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.87,
+    "evidence_type": "qPCR, ELISA",
+    "source": "Literature (PMID: 30064698)"
+  },
+  {
+    "lncrna_name": "H19",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CCND1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.82,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 30064698)"
+  },
+  {
+    "lncrna_name": "H19",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "MYC",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.8,
+    "evidence_type": "qPCR, ChIP",
+    "source": "Literature (PMID: 30064698)"
+  },
+  {
+    "lncrna_name": "H19",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CDKN1B",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.85,
+    "evidence_type": "Western blot, flow cytometry",
+    "source": "Literature (PMID: 30064698)"
+  },
+  {
+    "lncrna_name": "H19",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "RB1",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.78,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 30064698)"
+  },
+  {
+    "lncrna_name": "LINC00152",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "EGFR",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.91,
+    "evidence_type": "Western blot, IHC",
+    "source": "Literature (PMID: 30940543)"
+  },
+  {
+    "lncrna_name": "LINC00152",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "AKT1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.88,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 30940543)"
+  },
+  {
+    "lncrna_name": "LINC00152",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "MMP9",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.85,
+    "evidence_type": "qPCR, invasion assay",
+    "source": "Literature (PMID: 30940543)"
+  },
+  {
+    "lncrna_name": "LINC00152",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "TWIST1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.82,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 30940543)"
+  },
+  {
+    "lncrna_name": "LINC00152",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CDH1",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.88,
+    "evidence_type": "Western blot, IHC",
+    "source": "Literature (PMID: 30940543)"
+  },
+  {
+    "lncrna_name": "LINC00152",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "PTEN",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.8,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 30940543)"
+  },
+  {
+    "lncrna_name": "PVT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "MYC",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.95,
+    "evidence_type": "Co-amplification, qPCR",
+    "source": "Literature (PMID: 31271680)"
+  },
+  {
+    "lncrna_name": "PVT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "BCL2",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.9,
+    "evidence_type": "Western blot, flow cytometry",
+    "source": "Literature (PMID: 31271680)"
+  },
+  {
+    "lncrna_name": "PVT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "MCL1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.85,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 31271680)"
+  },
+  {
+    "lncrna_name": "PVT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CCND1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.82,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 31271680)"
+  },
+  {
+    "lncrna_name": "PVT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "BAX",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.88,
+    "evidence_type": "Western blot, flow cytometry",
+    "source": "Literature (PMID: 31271680)"
+  },
+  {
+    "lncrna_name": "PVT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CDKN1A",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.82,
+    "evidence_type": "qPCR, Western blot",
+    "source": "Literature (PMID: 31271680)"
+  },
+  {
+    "lncrna_name": "PVT1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "TP53",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.78,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 31271680)"
+  },
+  {
+    "lncrna_name": "TUG1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "EZH2",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.89,
+    "evidence_type": "RIP, ChIP",
+    "source": "Literature (PMID: 29444205)"
+  },
+  {
+    "lncrna_name": "TUG1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CCND1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.84,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 29444205)"
+  },
+  {
+    "lncrna_name": "TUG1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CDK2",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.81,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 29444205)"
+  },
+  {
+    "lncrna_name": "TUG1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "CDKN1A",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.91,
+    "evidence_type": "Western blot, qPCR",
+    "source": "Literature (PMID: 29444205)"
+  },
+  {
+    "lncrna_name": "TUG1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "TP53",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.83,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 29444205)"
+  },
+  {
+    "lncrna_name": "TUG1",
+    "lncrna_expression": "Upregulated",
+    "target_gene": "RB1",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.78,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 29444205)"
+  },
+  {
+    "lncrna_name": "MEG3",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "MDM2",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.87,
+    "evidence_type": "Western blot, IP",
+    "source": "Literature (PMID: 28416576)"
+  },
+  {
+    "lncrna_name": "MEG3",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "VEGFA",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.83,
+    "evidence_type": "ELISA, qPCR",
+    "source": "Literature (PMID: 28416576)"
+  },
+  {
+    "lncrna_name": "MEG3",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "CDK4",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.79,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 28416576)"
+  },
+  {
+    "lncrna_name": "MEG3",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "TP53",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.9,
+    "evidence_type": "Western blot, reporter assay",
+    "source": "Literature (PMID: 28416576)"
+  },
+  {
+    "lncrna_name": "MEG3",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "CDKN1A",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.85,
+    "evidence_type": "qPCR, Western blot",
+    "source": "Literature (PMID: 28416576)"
+  },
+  {
+    "lncrna_name": "MEG3",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "RB1",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.8,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 28416576)"
+  },
+  {
+    "lncrna_name": "GAS5",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "MTOR",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.91,
+    "evidence_type": "Western blot, mTOR kinase assay",
+    "source": "Literature (PMID: 27009926)"
+  },
+  {
+    "lncrna_name": "GAS5",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "BCL2",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.85,
+    "evidence_type": "Western blot, flow cytometry",
+    "source": "Literature (PMID: 27009926)"
+  },
+  {
+    "lncrna_name": "GAS5",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "CCND1",
+    "interaction_direction": "up",
+    "net_effect_in_OSCC": "down",
+    "interaction_score": 0.82,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 27009926)"
+  },
+  {
+    "lncrna_name": "GAS5",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "CDKN1A",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.88,
+    "evidence_type": "Western blot, qPCR",
+    "source": "Literature (PMID: 27009926)"
+  },
+  {
+    "lncrna_name": "GAS5",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "BAX",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.84,
+    "evidence_type": "Western blot",
+    "source": "Literature (PMID: 27009926)"
+  },
+  {
+    "lncrna_name": "GAS5",
+    "lncrna_expression": "Downregulated",
+    "target_gene": "CASP3",
+    "interaction_direction": "down",
+    "net_effect_in_OSCC": "up",
+    "interaction_score": 0.79,
+    "evidence_type": "Western blot, caspase assay",
+    "source": "Literature (PMID: 27009926)"
+  }
+]
